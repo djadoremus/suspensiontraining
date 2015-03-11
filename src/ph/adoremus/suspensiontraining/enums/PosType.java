@@ -1,0 +1,5 @@
+package ph.adoremus.suspensiontraining.enums;
+
+public enum PosType {
+	STANDFACINGAWAY, STANDFACING, STANDSIDEWAYS, GROUNDFACING, GROUNDFACINGAWAY, GROUNDSIDEWAYS
+}
